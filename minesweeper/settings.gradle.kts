@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Minesweeper"
+rootProject.name = "minesweeper"
 include(":app")
- 
